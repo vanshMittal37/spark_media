@@ -63,12 +63,12 @@ export function Header() {
             <img
               src="/Logo_SparkMedia_dark.png"
               alt="SparkMedia logo"
-              className="logo-dark-theme w-[130px] sm:w-[155px] h-auto object-contain"
+              className="logo-dark-theme h-[36px] sm:h-[40px] md:h-[44px] lg:h-[46px] w-auto object-contain transition-all duration-300"
             />
             <img
               src="/Logo_SparkMedia_light.png"
               alt="SparkMedia logo"
-              className="logo-light-theme w-[130px] sm:w-[155px] h-auto object-contain"
+              className="logo-light-theme h-[36px] sm:h-[40px] md:h-[44px] lg:h-[46px] w-auto object-contain transition-all duration-300"
             />
           </Link>
 
